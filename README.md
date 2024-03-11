@@ -9,7 +9,7 @@ start the program
 ### Step 2:
 get the correct value from the variables
 ### Step 3: 
-Get the value from the user for the number of rotation
+Get the value from the user for the number of rotation.
 ### Step 4: 
 Using the slicing concept rotate the list
 ### Step 5: 
